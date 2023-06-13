@@ -102,7 +102,6 @@ class _HomePageState extends State<HomePage> {
                         children: [
                           Text("GG"),
                           Text("GG"),
-                          Text("GG"),
                         ],
                       )
                     ],
